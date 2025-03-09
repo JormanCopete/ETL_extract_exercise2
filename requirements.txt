@@ -1,0 +1,8 @@
+jupyter
+pandas
+pyyaml 
+psycopg2 
+sqlalchemy
+matplotlib
+seaborn
+scikit-learn
